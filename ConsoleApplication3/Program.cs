@@ -13,6 +13,7 @@ namespace ConsoleApplication1
             Car Tomka = new Car();
             Car car2 = new Car(3.5, "Ford"); //zad6
             Car car3 = Car.Create(); //zad10
+            //test polaczenia
 
 
         }
